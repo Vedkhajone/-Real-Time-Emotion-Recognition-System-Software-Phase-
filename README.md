@@ -33,5 +33,5 @@ Currently in **software simulation phase** — intended for future integration w
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/emotion-recognition-bot.git
+git clone https://github.com/
 cd emotion-recognition-bot
